@@ -2,7 +2,7 @@
 
 ## About the Project
 Project Overview
-This project, api_deck_of_cards, utilizes Cypress, a robust end-to-end testing framework, to automate testing of the Deck of Cards API. The tests cover a range of actions including accessing the API, creating and shuffling decks, drawing cards, and checking for blackjack conditions.
+This project, api_deck_of_cards, utilizes Cypress,  to automate testing of the Deck of Cards API. The tests cover a range of actions including accessing the API, creating and shuffling decks, drawing cards, and checking for blackjack conditions.
 
 Features
 Automated tests with Cypress for Deck of Cards API
